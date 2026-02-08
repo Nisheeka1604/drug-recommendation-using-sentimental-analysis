@@ -71,14 +71,3 @@ drug-recommendation-using-sentimental-analysis/
 | Linear SVC (TF-IDF) | 93% | 0.92 | 0.93 | 0.92 |
 | Decision Tree (Word2Vec) | 78% | 0.77 | 0.78 | 0.77 |
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or feedback, please open an issue in the repository.
