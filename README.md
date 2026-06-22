@@ -52,9 +52,7 @@ A machine learning-based system that analyzes patient reviews to provide persona
 ## Project Structure
 
 ```
-drug-recommendation-using-sentimental-analysis/
-├── data/                    # Dataset files
-├── models/                  # Saved models
+drug-recommendation-using-sentimental-analysis/                 # Saved models
 ├── notebooks/               # Jupyter notebooks
 ├── src/                     # Source code
 │   ├── data_preprocessing.py
